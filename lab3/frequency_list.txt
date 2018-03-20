@@ -1,23 +1,16 @@
-w:477616
-z:292526
 na:157818
 do:154232
-o:147355
 art:146579
 nie:137948
-r:112651
 że:100013
 przez:90643
 ust:71822
-a:71160
 się:69648
 dnia:64738
 jest:62378
-k:61061
 oraz:50658
 ustawy:50437
 od:43531
-p:42182
 sąd:39834
 nr:39371
 postępowania:38222
@@ -30,12 +23,10 @@ oferty:32176
 zamawiający:32115
 co:29574
 zamawiającego:29562
-s:28294
 zamówienia:28228
 poz:27946
 iż:25823
 lub:25683
-u:25221
 jego:24286
 prawa:23660
 tego:23485
@@ -129,7 +120,6 @@ wykonawców:8953
 grudnia:8932
 wskazał:8802
 udziału:8684
-b:8619
 można:8612
 stanowi:8560
 części:8530
@@ -149,7 +139,6 @@ tj:7937
 wysokości:7890
 więc:7862
 marca:7797
-n:7792
 maja:7766
 izby:7736
 kwietnia:7705
@@ -180,7 +169,6 @@ okręgowy:6778
 spółki:6765
 te:6757
 okręgowego:6742
-e:6642
 niż:6636
 kosztów:6636
 zostało:6634
@@ -259,7 +247,6 @@ pracę:5185
 warszawa:5164
 ochrony:5164
 osoby:5129
-j:5108
 zarzutu:5099
 stronie:5058
 aby:5054
@@ -324,7 +311,6 @@ podstawę:4350
 ustalenia:4313
 charakter:4312
 oznacza:4308
-t:4307
 wniesienia:4300
 otk:4300
 warszawie:4295
@@ -353,7 +339,6 @@ wskazuje:4033
 zaskarżonego:4029
 ubezpieczeń:4019
 odwoławczego:4008
-h:3998
 wartość:3997
 orzekający:3995
 zu:3980
@@ -361,7 +346,6 @@ według:3978
 prawem:3975
 zero:3968
 stron:3962
-g:3953
 odniesieniu:3936
 skargę:3936
 prawnych:3875
@@ -1015,7 +999,6 @@ kasacyjnego:1372
 kosztorysu:1372
 wniosków:1371
 odwoławczym:1369
-ł:1366
 związania:1365
 swoim:1364
 ppkt:1363
@@ -1183,7 +1166,6 @@ konstytucyjna:1137
 nieograniczonego:1133
 wprawdzie:1132
 trybunale:1132
-y:1130
 sejmu:1130
 przeprowadzenia:1129
 następujące:1126
@@ -1278,7 +1260,6 @@ upływie:1033
 rejestru:1033
 wnioskiem:1032
 poinformował:1032
-f:1030
 dróg:1030
 warunkiem:1029
 zwanej:1026
@@ -2011,7 +1992,6 @@ uchwał:594
 wydziału:594
 zo:593
 zgłoszenia:593
-ś:592
 prowadzonym:591
 wyjątkiem:591
 dokumentem:591
@@ -2699,7 +2679,6 @@ harmonogramu:416
 numerem:416
 wojciech:416
 porozumienie:415
-ż:415
 byłby:415
 rozliczenia:415
 godziny:414
@@ -3810,7 +3789,6 @@ uzyskanych:273
 szacunkowa:273
 karne:273
 podstawową:273
-ą:273
 działek:273
 andrzeja:273
 ogłoszeniem:272
@@ -6956,7 +6934,6 @@ przełożonego:120
 ośrodka:120
 procesowy:120
 czynić:120
-½:120
 umożliwienia:120
 spełniającego:120
 dokonaniem:120
@@ -13311,7 +13288,6 @@ kompanię:45
 line:45
 generatora:45
 opisaną:45
-_:45
 nieznacznie:45
 skłodowskiej:45
 analizator:45
@@ -14383,7 +14359,6 @@ dołączyła:39
 pouczeniem:39
 progi:39
 zezwalającej:39
-¼:39
 nabyły:39
 ujawnionym:39
 pouczeń:39
@@ -14891,7 +14866,6 @@ udostępnił:37
 stawiennictwa:37
 prezesie:37
 konkurs:37
-ć:37
 głowy:37
 złą:37
 przypuszczenie:37
@@ -15240,7 +15214,6 @@ polegającymi:36
 wytrzymałości:36
 przestrzegać:36
 zg:36
-ø:36
 stempla:36
 grzywnę:36
 postulatów:36
@@ -18466,7 +18439,6 @@ szef:26
 nietypowej:26
 przejazdy:26
 gazety:26
-ę:26
 most:26
 transportowa:26
 rogowiec:26
@@ -18871,7 +18843,6 @@ podlaskiego:25
 korzystniejszej:25
 elektroenergetyczne:25
 miejskiemu:25
-¾:25
 rudnicki:25
 wykładania:25
 referencją:25
@@ -26292,7 +26263,6 @@ okrągłego:14
 pobrana:14
 treściowe:14
 okresowy:14
-q:14
 powykonawczego:14
 zasygnalizować:14
 bogdance:14
@@ -29037,7 +29007,6 @@ reglamentacji:11
 podejmujący:11
 skonstruowanego:11
 poddanym:11
-ó:11
 rozwiązywać:11
 kolizyjne:11
 międzyczasowych:11
@@ -41761,7 +41730,6 @@ kielczyk:6
 niebój:6
 dziemidowicz:6
 medyński:6
-φ:6
 wawrzyniaka:6
 radisson:6
 kaliningradzie:6
@@ -50893,7 +50861,6 @@ nieuczciwym:4
 oznaczyły:4
 umniejszanie:4
 pianki:4
-λ:4
 principium:4
 pobraniowej:4
 biznesowe:4
@@ -52380,7 +52347,6 @@ relative:3
 au:3
 magistrature:3
 zawieszonym:3
-à:3
 organisation:3
 zacieranie:3
 znaczeniowa:3
@@ -65727,7 +65693,6 @@ rozdzielonych:2
 wyliczanki:2
 funktorowi:2
 alfabetu:2
-ń:2
 średnikiem:2
 prolog:2
 legitymującymi:2
@@ -87669,7 +87634,6 @@ przedruku:1
 england:1
 medicine:1
 zaszczepionych:1
-³:1
 legalizowanego:1
 zalegalizowanego:1
 legalizowanych:1
@@ -94815,7 +94779,6 @@ zamawiaja:1
 zlokallzowane:1
 pozlomu:1
 wcia:1
-ź:1
 powyżsxymi:1
 argumentarni:1
 pózlom:1
@@ -106132,3 +106095,25 @@ bezprzewodowego:1
 abonencka:1
 paczkowego:1
 nierozerwalność:1
+zakwestionowałby:1
+tołstoja:1
+pażdziernika:1
+drukująco:1
+kopiującoskanującego:1
+zamrożenia:1
+rozmrożeniu:1
+instrimentation:1
+parametryzowany:1
+czyichkolwiek:1
+liofilizowane:1
+wyszkolenia:1
+etykietowania:1
+niedołączanie:1
+egzemplarzowi:1
+dołączany:1
+lodówce:1
+free:1
+ig:1
+górnik:1
+pretficza:1
+skalkulowali:1
